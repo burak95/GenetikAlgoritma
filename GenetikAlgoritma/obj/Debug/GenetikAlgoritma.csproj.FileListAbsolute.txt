@@ -1,0 +1,36 @@
+c:\users\burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csprojResolveAssemblyReference.cache
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.Cache
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+C:\Users\Burak\documents\visual studio 2015\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csprojResolveAssemblyReference.cache
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.Cache
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\mscorlib.dll
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\normidna.nlp
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\normnfc.nlp
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\normnfd.nlp
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\normnfkc.nlp
+H:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\normnfkd.nlp
+E:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+E:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+E:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe.config
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.exe
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.pdb
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.exe
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\bin\Debug\GenetikAlgoritma.pdb
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csprojResolveAssemblyReference.cache
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Form1.resources
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.Properties.Resources.resources
+I:\Projects\GenetikAlgoritma\GenetikAlgoritma\obj\Debug\GenetikAlgoritma.csproj.GenerateResource.Cache
